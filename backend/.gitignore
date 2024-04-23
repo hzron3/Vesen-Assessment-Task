@@ -1,0 +1,23 @@
+# Dependency directories
+/node_modules/
+# If you're using Yarn, add this line as well:
+# /yarn.lock
+
+# Build directories
+/build/
+/dist/
+*.log
+
+# Environment variables
+/.env
+/.env.local
+/.env.test
+/.env.prod
+
+# IDE/Editor files
+/.vscode/
+/.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
